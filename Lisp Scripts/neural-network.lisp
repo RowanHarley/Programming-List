@@ -1,0 +1,1 @@
+open("./Neural Network/loadup.neuron")

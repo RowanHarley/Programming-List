@@ -1,0 +1,5 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\bin\Release\Chat.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\bin\Release\Chat.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\bin\Release\Chat.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\obj\Release\Chat.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\obj\Release\Chat.pdb

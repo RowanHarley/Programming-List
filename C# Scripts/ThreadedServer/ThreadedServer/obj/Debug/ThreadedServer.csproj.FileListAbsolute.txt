@@ -1,0 +1,6 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServer\ThreadedServer\bin\Debug\ThreadedServer.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServer\ThreadedServer\bin\Debug\ThreadedServer.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServer\ThreadedServer\bin\Debug\ThreadedServer.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServer\ThreadedServer\obj\Debug\ThreadedServer.csprojResolveAssemblyReference.cache
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServer\ThreadedServer\obj\Debug\ThreadedServer.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServer\ThreadedServer\obj\Debug\ThreadedServer.pdb

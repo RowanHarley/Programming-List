@@ -1,0 +1,5 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Client\Multi-Client-Client\bin\Debug\Multi-Client-Client.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Client\Multi-Client-Client\bin\Debug\Multi-Client-Client.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Client\Multi-Client-Client\bin\Debug\Multi-Client-Client.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Client\Multi-Client-Client\obj\Debug\Multi-Client-Client.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Client\Multi-Client-Client\obj\Debug\Multi-Client-Client.pdb

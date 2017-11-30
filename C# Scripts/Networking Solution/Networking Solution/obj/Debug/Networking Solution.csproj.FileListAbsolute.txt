@@ -1,0 +1,6 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Networking Solution\Networking Solution\bin\Debug\Networking Solution.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Networking Solution\Networking Solution\bin\Debug\Networking Solution.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Networking Solution\Networking Solution\bin\Debug\Networking Solution.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Networking Solution\Networking Solution\obj\Debug\Networking Solution.csprojResolveAssemblyReference.cache
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Networking Solution\Networking Solution\obj\Debug\Networking Solution.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Networking Solution\Networking Solution\obj\Debug\Networking Solution.pdb

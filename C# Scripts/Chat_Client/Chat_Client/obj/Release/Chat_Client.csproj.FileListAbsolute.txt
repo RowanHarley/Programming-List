@@ -1,0 +1,5 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat_Client\Chat_Client\bin\Release\Chat_Client.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat_Client\Chat_Client\bin\Release\Chat_Client.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat_Client\Chat_Client\bin\Release\Chat_Client.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat_Client\Chat_Client\obj\Release\Chat_Client.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat_Client\Chat_Client\obj\Release\Chat_Client.pdb

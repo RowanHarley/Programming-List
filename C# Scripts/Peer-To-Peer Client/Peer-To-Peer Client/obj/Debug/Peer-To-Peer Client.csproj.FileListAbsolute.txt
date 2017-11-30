@@ -1,0 +1,5 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Peer-To-Peer Client\Peer-To-Peer Client\bin\Debug\Peer-To-Peer Client.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Peer-To-Peer Client\Peer-To-Peer Client\bin\Debug\Peer-To-Peer Client.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Peer-To-Peer Client\Peer-To-Peer Client\bin\Debug\Peer-To-Peer Client.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Peer-To-Peer Client\Peer-To-Peer Client\obj\Debug\Peer-To-Peer Client.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Peer-To-Peer Client\Peer-To-Peer Client\obj\Debug\Peer-To-Peer Client.pdb

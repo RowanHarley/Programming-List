@@ -1,0 +1,5 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServerClientTest\ThreadedServerClientTest\bin\Debug\ThreadedServerClientTest.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServerClientTest\ThreadedServerClientTest\bin\Debug\ThreadedServerClientTest.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServerClientTest\ThreadedServerClientTest\bin\Debug\ThreadedServerClientTest.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServerClientTest\ThreadedServerClientTest\obj\Debug\ThreadedServerClientTest.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\ThreadedServerClientTest\ThreadedServerClientTest\obj\Debug\ThreadedServerClientTest.pdb

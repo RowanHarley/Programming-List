@@ -1,0 +1,6 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Chat\Chat\obj\Debug\Chat.pdb

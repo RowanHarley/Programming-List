@@ -1,0 +1,6 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Server\Multi-Client-Server\bin\Debug\Multi-Client-Server.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Server\Multi-Client-Server\bin\Debug\Multi-Client-Server.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Server\Multi-Client-Server\bin\Debug\Multi-Client-Server.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Server\Multi-Client-Server\obj\Debug\Multi-Client-Server.csprojResolveAssemblyReference.cache
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Server\Multi-Client-Server\obj\Debug\Multi-Client-Server.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\Multi-Client-Server\Multi-Client-Server\obj\Debug\Multi-Client-Server.pdb

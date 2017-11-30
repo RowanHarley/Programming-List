@@ -1,0 +1,6 @@
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\UDP Server\UDP Server\bin\Release\UDP Server.exe.config
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\UDP Server\UDP Server\bin\Release\UDP Server.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\UDP Server\UDP Server\bin\Release\UDP Server.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\UDP Server\UDP Server\obj\Release\UDP Server.exe
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\UDP Server\UDP Server\obj\Release\UDP Server.pdb
+C:\Users\Rowan\Desktop\My Scripts\C# Scripts\UDP Server\UDP Server\obj\Release\UDP Server.csprojResolveAssemblyReference.cache

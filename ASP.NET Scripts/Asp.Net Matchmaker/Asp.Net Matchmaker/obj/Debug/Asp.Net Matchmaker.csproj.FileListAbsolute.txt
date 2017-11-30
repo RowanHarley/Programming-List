@@ -1,0 +1,21 @@
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\csc.exe
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\vbc.exe
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\Asp.Net Matchmaker.dll.config
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\Asp.Net Matchmaker.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\Asp.Net Matchmaker.pdb
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\Microsoft.WebSockets.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\obj\Debug\Asp.Net Matchmaker.csprojResolveAssemblyReference.cache
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\obj\Debug\Asp.Net Matchmaker.dll
+C:\Users\Rowan\Desktop\My Scripts\ASP.NET Scripts\Asp.Net Matchmaker\Asp.Net Matchmaker\obj\Debug\Asp.Net Matchmaker.pdb
